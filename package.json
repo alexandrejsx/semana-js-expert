@@ -1,0 +1,15 @@
+{
+  "name": "webapp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server -w"
+  },
+  "keywords": [],
+  "author": "Alexandre Queiroz",
+  "license": "MIT",
+  "description": "JSExpert Max Gesture Controller - Semana JS Expert 7.0",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
